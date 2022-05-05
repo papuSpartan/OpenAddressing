@@ -1,3 +1,8 @@
+//FileName: Driver.java
+//Author(s): Macabe Graham
+//Course ID: COSC2203-01 - Data Structures
+//Assignment ID: Open Addressing
+
 import java.util.Scanner;
 
 public class Driver {
